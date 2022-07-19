@@ -16,7 +16,7 @@
                     <sonar.host.url>
                     http://54.166.46.136:9000
                 </sonar.host.url>
-	 <sonar.user>admin</sonar.user>
+	 <sonar.login>admin</sonar.login>
 	 <sonar.password>Admin</sonar.password>
           
   </properties>
